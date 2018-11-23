@@ -8,3 +8,9 @@
 - Cointegration method (finding all cointegrated pairs)
 - SVR implementation
 - Google cloud platform stuff
+
+## Rohit
+- Preprocessing Data for all models
+- ANN implementation
+- Linear Regression implementation
+
