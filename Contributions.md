@@ -10,7 +10,12 @@
 - Google cloud platform stuff
 
 ## Rohit
-- Preprocessing Data for all models
+- Preprocessing Data for all models 
 - ANN implementation
 - Linear Regression implementation
+
+## Adil
+- Preprocessing Data for all models
+- ANN implementation
+- Introduction of report 
 
