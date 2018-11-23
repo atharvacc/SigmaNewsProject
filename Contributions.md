@@ -1,7 +1,9 @@
 ## Atharva
 
-- RNN implementation on data-set
-- LSTM implementation on data-set
+- RNN implementation on data-set ( Partially Done)
+- LSTM implementation on data-set(Partially Done)
+- ANN implementation ( Done)
+- SVM( In-Progress)
 
 ## Neil
 
