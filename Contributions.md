@@ -19,3 +19,5 @@
 - Preprocessing Data for all models
 - ANN implementation
 - Introduction of report 
+- Google cloud platform stuff
+
