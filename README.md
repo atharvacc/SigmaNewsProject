@@ -8,3 +8,8 @@
 ### Atharva
 - Looking at Graphs and reading https://arxiv.org/abs/1805.11317?fbclid=IwAR3kMH47tMtSn6RIt7HSxQDoXTm3_HO4-83QMH7t9BoSVr5XXhbe52Ac5LE ( Done)
 
+## 11/22-11/24
+- Run RNNs on Full Dataset
+- Try training ANN using Keras
+- Document Code
+
