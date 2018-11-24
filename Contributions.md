@@ -26,3 +26,4 @@
 ## Cazamere
 - Method of report
 - Research paper provision
+- Elastic Net implementation
