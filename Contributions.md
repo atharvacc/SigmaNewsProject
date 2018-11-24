@@ -23,3 +23,6 @@
 - Introduction of report 
 - Google cloud platform stuff
 
+## Cazamere
+- Method of report
+- Research paper provision
