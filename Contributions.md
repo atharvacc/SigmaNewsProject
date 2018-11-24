@@ -3,7 +3,7 @@
 - RNN implementation on data-set ( Partially Done)
 - LSTM implementation on data-set(Partially Done)
 - ANN implementation ( Done)
-- SVM( In-Progress)
+- SVR( Done)
 
 ## Neil
 
