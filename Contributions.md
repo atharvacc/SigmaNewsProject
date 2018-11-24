@@ -1,10 +1,28 @@
 ## Atharva
 
-- RNN implementation on data-set
-- LSTM implementation on data-set
+- RNN implementation on data-set ( Partially Done)
+- LSTM implementation on data-set(Partially Done)
+- ANN implementation ( Done)
+- SVM( In-Progress)
 
 ## Neil
 
 - Cointegration method (finding all cointegrated pairs)
 - SVR implementation
 - Google cloud platform stuff
+
+## Rohit
+- Preprocessing Data for all models 
+- ANN implementation
+- Linear Regression implementation
+- Feature Selection / Relevance test / Elastic Net
+
+## Adil
+- Preprocessing Data for all models
+- ANN implementation
+- Introduction of report 
+- Google cloud platform stuff
+
+## Cazamere
+- Method of report
+- Research paper provision
