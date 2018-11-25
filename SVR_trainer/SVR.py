@@ -10,6 +10,7 @@ import datetime
 import os
 import subprocess
 import sys
+from sklearn.externals import joblib
 
 def loadDataFiles():
     market_data_filename = 'Market_train'
@@ -79,3 +80,10 @@ X = regularize(X)
 
 model = SVR(cache_size=1000, verbose = True)
 model.fit(X.iloc[:round(len(X) * 0.7), :], y.iloc[:round(len(y) * 0.7)])
+
+savedModel = 'model.joblib'
+joblib.dump(model, savedModel)
+
+model_path = os.path.join('gs://', 'uwotm8', 'SVR5', savedModel)
+subprocess.check_call(['gsutil', 'cp', savedModel, model_path], stderr=sys.stdout)
+
