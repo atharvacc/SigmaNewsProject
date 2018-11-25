@@ -12,6 +12,7 @@
 - Google cloud platform stuff
 
 ## Rohit
+- Cointegration method (Regression, ADF analysis and running ANN)
 - Preprocessing Data for all models 
 - ANN implementation
 - Linear Regression implementation
