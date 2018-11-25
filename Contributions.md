@@ -3,7 +3,7 @@
 - RNN implementation on data-set ( Partially Done)
 - LSTM implementation on data-set(Partially Done)
 - ANN implementation ( Done)
-- SVM( In-Progress)
+- SVR( Done)
 
 ## Neil
 
@@ -27,3 +27,4 @@
 ## Cazamere
 - Method of report
 - Research paper provision
+- Elastic Net implementation
