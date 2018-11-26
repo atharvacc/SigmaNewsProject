@@ -4,6 +4,7 @@
 - LSTM implementation on data-set(Partially Done)
 - ANN implementation ( Done)
 - SVR( Done)
+- Preprocessing for decision tree
 
 ## Neil
 
