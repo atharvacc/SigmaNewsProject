@@ -29,3 +29,9 @@
 - Method of report
 - Research paper provision
 - Elastic Net implementation
+
+## Saksham 
+- Preprocessing Data for all models
+- Feature Selection 
+- Templating the report
+- Abstract section of the report
