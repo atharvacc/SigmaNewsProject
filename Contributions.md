@@ -3,9 +3,10 @@
 - RNN implementation on data-set (  Done)
 - LSTM implementation on data-set( Done)
 - ANN architecture ( Done)
-- SVR( Done)
 - Preprocessing for decision tree( Done)
 - Decision Tree(Done)
+- Random Forest(Done)
+- Gradient Tree Boosting(Done)
 - ROC Curve for classification ( Done)
 - Loss plots for ANN, RNN, LSTM, 
 
