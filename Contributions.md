@@ -1,6 +1,5 @@
 ## Atharva
 
-- RNN implementation on data-set (  Done)
 - LSTM implementation on data-set( Done)
 - ANN architecture ( Done)
 - Preprocessing for decision tree( Done)
@@ -8,6 +7,9 @@
 - Random Forest(Done)
 - ROC Curve for classification ( Done)
 - Loss plots for ANN, RNN, LSTM, 
+- LSTM (Writeup)
+- ANN (Writeup)
+- Decision Tree (Write up)
 
 ## Neil
 
