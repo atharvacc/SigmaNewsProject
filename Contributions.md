@@ -20,7 +20,7 @@
 - Preprocessing Data for all models 
 - ANN implementation
 - Linear Regression implementation
-- Feature Selection / Relevance test / Elastic Net
+- Feature Selection / Relevance test 
 
 ## Adil
 - Preprocessing Data for all models
