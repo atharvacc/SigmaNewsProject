@@ -10,7 +10,7 @@
 - LSTM (Writeup)
 - ANN (Writeup)
 - Decision Tree (Write up)
-- Plotting returns(Done)
+- Plotting AVg Returns vs years(Done)
 
 ## Neil
 
