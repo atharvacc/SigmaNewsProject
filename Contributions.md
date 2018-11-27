@@ -6,7 +6,6 @@
 - Preprocessing for decision tree( Done)
 - Decision Tree(Done)
 - Random Forest(Done)
-- Gradient Tree Boosting(Done)
 - ROC Curve for classification ( Done)
 - Loss plots for ANN, RNN, LSTM, 
 
