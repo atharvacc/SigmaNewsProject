@@ -26,9 +26,11 @@
 - Google cloud platform stuff
 
 ## Cazamere
-- Method of report
-- Research paper provision
 - Elastic Net implementation
+- Method of report
+- Results of report
+- Research paper provision
+
 
 ## Saksham 
 - Preprocessing Data for all models
