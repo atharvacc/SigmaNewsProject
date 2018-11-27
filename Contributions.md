@@ -1,6 +1,5 @@
 ## Atharva
 
-- RNN implementation on data-set (  Done)
 - LSTM implementation on data-set( Done)
 - ANN architecture ( Done)
 - Preprocessing for decision tree( Done)
@@ -8,6 +7,10 @@
 - Random Forest(Done)
 - ROC Curve for classification ( Done)
 - Loss plots for ANN, RNN, LSTM, 
+- LSTM (Writeup)
+- ANN (Writeup)
+- Decision Tree (Write up)
+- Plotting returns(Done)
 
 ## Neil
 
@@ -20,7 +23,7 @@
 - Preprocessing Data for all models 
 - ANN implementation
 - Linear Regression implementation
-- Feature Selection / Relevance test / Elastic Net
+- Feature Selection / Relevance test 
 
 ## Adil
 - Preprocessing Data for all models
