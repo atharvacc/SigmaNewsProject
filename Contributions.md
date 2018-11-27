@@ -7,6 +7,7 @@
 - Preprocessing for decision tree( Done)
 - Decision Tree(Done)
 - ROC Curve for classification ( Done)
+- Loss plots for ANN, RNN, LSTM, 
 
 ## Neil
 
