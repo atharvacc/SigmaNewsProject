@@ -1,10 +1,12 @@
 ## Atharva
 
-- RNN implementation on data-set ( Partially Done)
-- LSTM implementation on data-set(Partially Done)
-- ANN implementation ( Done)
+- RNN implementation on data-set (  Done)
+- LSTM implementation on data-set( Done)
+- ANN architecture ( Done)
 - SVR( Done)
-- Preprocessing for decision tree
+- Preprocessing for decision tree( Done)
+- Decision Tree(Done)
+- ROC Curve for classification ( Done)
 
 ## Neil
 
