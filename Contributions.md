@@ -2,15 +2,14 @@
 
 - LSTM implementation on data-set( Done)
 - ANN architecture ( Done)
-- Preprocessing for decision tree( Done)
-- Decision Tree(Done)
+- Preprocessing for Random Forests( Done)
 - Random Forest(Done)
 - ROC Curve for classification ( Done)
 - Loss plots for ANN, RNN, LSTM, 
 - LSTM (Writeup)
 - ANN (Writeup)
 - Decision Tree (Write up)
-- Plotting AVg Returns vs years(Done)
+- Plotting Avg Returns vs years(Done)
 
 ## Neil
 
