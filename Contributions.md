@@ -30,6 +30,7 @@
 
 ## Cazamere
 - Elastic Net implementation
+- ANN implementation
 - Method of report
 - Results of report
 - Research paper provision
