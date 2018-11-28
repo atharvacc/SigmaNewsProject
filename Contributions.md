@@ -48,3 +48,7 @@
 - Results section of report
 - Graph Plotting of models
 - Linear Regression model for different polynomial orders
+
+## Nikita 
+- Research References 
+- Conclusion
