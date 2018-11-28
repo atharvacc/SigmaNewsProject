@@ -43,3 +43,8 @@
 - Feature Selection 
 - Templating the report
 - Abstract section of the report
+
+## Kavitha
+- Results section of report
+- Graph Plotting of models
+- Linear Regression model for different polynomial orders
