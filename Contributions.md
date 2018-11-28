@@ -2,15 +2,14 @@
 
 - LSTM implementation on data-set( Done)
 - ANN architecture ( Done)
-- Preprocessing for decision tree( Done)
-- Decision Tree(Done)
+- Preprocessing for Random Forests( Done)
 - Random Forest(Done)
 - ROC Curve for classification ( Done)
 - Loss plots for ANN, RNN, LSTM, 
 - LSTM (Writeup)
 - ANN (Writeup)
 - Decision Tree (Write up)
-- Plotting returns(Done)
+- Plotting Avg Returns vs years(Done)
 
 ## Neil
 
@@ -34,7 +33,7 @@
 ## Cazamere
 - Elastic Net implementation
 - ANN implementation
-- Method of report
+- Data of report
 - Results of report
 - Research paper provision
 
