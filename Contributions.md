@@ -5,7 +5,7 @@
 - Preprocessing for Random Forests( Done)
 - Random Forest(Done)
 - ROC Curve for classification ( Done)
-- Loss plots for ANN, RNN, LSTM, 
+- Loss plots for ANN, RNN, LSTM (Done) 
 - LSTM (Writeup)
 - ANN (Writeup)
 - Decision Tree (Write up)
